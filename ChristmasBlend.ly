@@ -36,7 +36,7 @@
       g,8 g g8. g16 g8 g g
 
     %\alternative { 
-       d' d8 d a c b4.
+       d' d8 d a c b4. r8
     %}
 
     \bar "|."
