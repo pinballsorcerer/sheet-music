@@ -32,7 +32,7 @@
 
        d' cis8 cis cis cis d (c4.) 
 
-      d8 d d4 d8 d d4 d b b8. c16 d8 r4
+      d8 d d4 d8 d d4 d8 b b8. c16 d4 r4
       g,8 g g8. g16 g8 g g
 
     %\alternative { 
