@@ -22,6 +22,18 @@
     b16 (b16) b8 b c b b4 r8
     b16 (b16) b8 b c b c4 r8
     g g g g c c c a a c b a c b4. r8
+
+    \repeat volta 2 {
+      d8 d d4 d8 d d4 d b b8. c16 d8 r4
+      g,8 g g8. g16 g8 g g
+    }
+
+    \alternative { 
+      { d'16 (d) cis8 cis cis cis d (c4.) }
+      { d16 (d) d8 d a c b4. r8 }
+    }
+
+    \bar "|."
   }
 
 } 
@@ -37,6 +49,10 @@
   Of-this ho li day de light
   A tra di tion that re turns each year
   Tomake your sea son bright
+
+  Christ mas blend, back a gain
+  Wrapped in shi ny red
+  Makes a per fect gift for cof fee lo vers, so it's said
 } 
 
 \addlyrics 
